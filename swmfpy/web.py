@@ -15,6 +15,7 @@ import gzip
 from operator import itemgetter
 import shutil
 import urllib
+import urllib.request
 from dateutil import rrule
 import numpy as np
 from .tools import _nearest, carrington_rotation_number

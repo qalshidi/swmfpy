@@ -95,7 +95,7 @@ You can cite this software on LaTeX like this:
 
 ```latex
 @software{swmfpy,
-  author = {{Qusai Al Shidi}},
+  author = {{Al Shidi, Qusai}},
   title = {swmfpy},
   url = {https://gitlab.umich.edu/swmf_software/swmfpy},
   version = {2020.5},

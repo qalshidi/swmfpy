@@ -1,7 +1,7 @@
 before_script:
     - apt-get update -qy
     - apt-get install -y python3.6
-    - pip install -r requirements.txt
+    - python3 -m pip install -r requirements.txt
 
 run-test:
     script:
